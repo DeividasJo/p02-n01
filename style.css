@@ -1,0 +1,58 @@
+body{
+    font-family: 'M PLUS 1p', sans-serif;
+}
+.box-1{
+    background: rgb(58, 57, 57);
+}
+.box-2{
+    background: rgb(236, 236, 236);
+}
+.first-box{
+    width: 60%;
+    margin-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.box-1 .first-box img{
+    width: 70px;
+}
+.first-box h1{
+    color: #fff;
+}
+.first-box p{
+    color: #999;
+}
+.second-box{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.second-box p{
+    color: #999;
+}
+.left-box{
+    display: inline-block;
+    width: 55%;
+    margin-left: 5%;
+
+}
+.left-box p{
+    color: #999;
+}
+.left-box h5{
+    color: rgb(40, 159, 196);
+}
+.right-box{
+    display: inline-block;
+    width: 25%;
+    margin-left: 2%;
+}
+.right-box p{
+    color: #999;
+}
+.right-box h5{
+    color: rgb(40, 159, 196);
+}
